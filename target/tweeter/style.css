@@ -1,0 +1,16 @@
+label {
+     width: 12em;
+     display: inline-block;
+ }
+
+div {
+    margin: 2px;
+    padding:5px;
+    border-radius:3px;
+    border:1px solid #02639a;
+    margin-bottom:25px;
+    width:245px;
+    font-family:Arial,sans-serif;
+    font-size:14px;
+    color:#02639a;
+}
