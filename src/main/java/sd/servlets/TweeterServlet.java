@@ -6,7 +6,7 @@ import org.apache.commons.fileupload.disk.DiskFileItemFactory;
 import org.apache.commons.fileupload.servlet.ServletFileUpload;
 import sd.tweets.model.Tweet;
 import sd.tweets.repository.TweetReposiotory;
-import sd.users.repository.UserRepository;
+import sd.config.users.repository.UserRepository;
 
 import javax.servlet.ServletContext;
 import javax.servlet.ServletException;

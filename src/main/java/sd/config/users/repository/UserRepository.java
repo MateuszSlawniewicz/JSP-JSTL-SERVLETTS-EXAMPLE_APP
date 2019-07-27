@@ -1,7 +1,7 @@
-package sd.users.repository;
+package sd.config.users.repository;
 
 import sd.config.JdbcConfig;
-import sd.users.model.User;
+import sd.config.users.model.User;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;

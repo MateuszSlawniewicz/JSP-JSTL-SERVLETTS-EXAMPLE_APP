@@ -1,4 +1,4 @@
-package sd.users.model;
+package sd.config.users.model;
 
 import lombok.Data;
 

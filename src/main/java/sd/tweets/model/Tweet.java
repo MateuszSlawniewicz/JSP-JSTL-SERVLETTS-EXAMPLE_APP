@@ -1,7 +1,7 @@
 package sd.tweets.model;
 
 import lombok.Data;
-import sd.users.model.User;
+import sd.config.users.model.User;
 
 @Data
 public class Tweet {

@@ -1,7 +1,7 @@
 package sd.servlets;
 
-import sd.users.model.User;
-import sd.users.repository.UserRepository;
+import sd.config.users.model.User;
+import sd.config.users.repository.UserRepository;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;

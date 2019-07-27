@@ -2,8 +2,7 @@ package sd.tweets.repository;
 
 import sd.config.JdbcConfig;
 import sd.tweets.model.Tweet;
-import sd.users.model.User;
-import sd.users.repository.UserRepository;
+import sd.config.users.repository.UserRepository;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
